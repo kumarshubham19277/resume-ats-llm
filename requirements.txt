@@ -1,7 +1,7 @@
 streamlit
-pypdf
+pypdf2
 python-docx
 numpy
 scikit-learn
-google-generativeai
+groq
 python-dotenv
